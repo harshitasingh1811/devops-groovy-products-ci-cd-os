@@ -11,7 +11,7 @@ import groovy.transform.Canonical
 
 @Entity
 
-
+//This is product class
 class Product {
 	
 	@Id
